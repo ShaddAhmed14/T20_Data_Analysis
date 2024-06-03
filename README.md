@@ -13,4 +13,6 @@ Tutorial: https://youtu.be/4QkYy1wANXA?si=ueVLXz7d7OesQv0i
 
 ### Power Hitters tab after designing the dashboard:
 ![image](https://github.com/ShaddAhmed14/T20_Data_Analysis/assets/77004048/0e12786c-382f-4deb-b693-02e1af7e3b92)
+![image](https://github.com/ShaddAhmed14/T20_Data_Analysis/assets/77004048/1caa7339-0b82-45bd-8d03-4ea257eddfb8)
+
 
